@@ -20,3 +20,21 @@
 	background-color:yellow;
 	position:absolute; 
 }
+
+/* boton de indice*/
+.indice{
+	
+	background-color:rgba(248,194,15,0.7);
+	box-shadow: 5px 10px 10px 5px;
+	width: 160px;
+	height: 50px;
+	margin: 30px;
+	border-radius: 8px;
+
+}
+
+.iconos{
+ 	display: inline-block;
+	margin: 10px;
+	text-decoration: none;
+}
